@@ -1,0 +1,16 @@
+all_output.txt
+backup.log
+combined.log
+custom_fd.txt
+date_method3.txt
+error.log
+fruits.txt
+greeting.txt
+home_backup.tar.gz
+ls_method1.txt
+ls_output.txt
+myredirect
+myredirect.c
+ps_output.txt
+test.txt
+z_programs.txt
